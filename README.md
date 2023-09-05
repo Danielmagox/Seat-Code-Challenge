@@ -8,9 +8,9 @@ This project implements a solution for controlling robotic mowers on a rectangul
 
 1. **Compile the Project**: Ensure you have Java and Maven installed. Compile the project using the following command:
 
-   ```shell
-   mvn clean package
-   ```
+```shell
+mvn clean package
+```
 
 2. **Run the Application**: Execute the JAR file with two command-line arguments: the name of the input file (input.txt) and the name of the output file (output.txt).
 
